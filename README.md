@@ -4,21 +4,22 @@ ________________________________________________________________
 Project Description:
 	DigiVigi is a 'DNIF Open Source' project which simply tries exhibiting a "How To?" process of analyzing real-time data inside DNIF from start to finish.
 
-____________________ Project Sketch ________________________
+__________________________ Product ______________________________
 
-Major Product in Use: DNIF - Open Big Data Analytics Platform (Free Forever Version)
+Product in Use: DNIF - Open Big Data Analytics Platform (Free Forever Version)
 
-_____________ Other Support Tools/ Software _____________
+________________ Other Support Tools/ Software ________________
 
 	- Virtual Box
 	- JetBrains: PyCharm Community Edition
 	- Ubuntu 16.04 or above
 	- Docker
-__________________ The Procedural Way ______________________
 
-The project execution is carried out in two process-phase.
+____________________ Project Sketch ________________________
 
-Process 1: Refer Issue #1
+The project execution is carried out in two process-phase. Its just a procedural way based on the diagram from issue #1
+
+PROCESS 1: Refer Issue #1
 
 Stage 1: 
 - Select & understand data-set from a domain of interest.
@@ -41,7 +42,7 @@ NOTE:Process 1 will ensure you get a good grasp of executing the project on a mo
 _____
 
 
-Process 2: Refer Issue #1
+PROCESS 2: Refer Issue #1
 
 Stage 1:
 - Select & understand data-set from a domain of interest. Dataset has to be dynamic this time. Meaning it can update over a period of min(s), hour(s), day(s), week(s) ... This selection should be careful as in later stage this might count when it comes down to your machines processing speed (CPU, RAM, Disk Space) Check out the pre-requisites on https://dnif.it/docs/guides/getting-started/prerequisites.html
