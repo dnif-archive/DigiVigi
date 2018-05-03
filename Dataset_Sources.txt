@@ -1,0 +1,35 @@
+Static:
+
+1. AWS Honey Pot Attack:
+https://www.kaggle.com/casimian2000/aws-honeypot-attack-data
+
+2. Website popularity data: 
+https://www.kaggle.com/bpali26/popular-websites-across-the-globe
+
+3. Zomato: Which country, what cusine @ which place.
+https://www.kaggle.com/shrutimehta/zomato-restaurants-data
+
+4. AWS honeypot dataset:
+https://www.kaggle.com/casimian2000/aws-honeypot-attack-data
+
+5. 15. IPL Data:
+	Research scope: Predicting the winner of the next season of IPL 	based on past data, Visualizations, Perspectives, etc. 
+https://www.kaggle.com/manasgarg/ipl
+
+
+Dynamic/ Real-Time Datasets:
+
+1. Organizational data breach information:
+https://haveibeenpwned.com/PwnedWebsites#OnlinerSpambot
+
+2. Web server logs by Mike Sconzo
+http://www.secrepo.com/
+
+3. Abuse Feed
+http://www.webiron.com/abuse_feed/
+
+4. Cyber Crime 
+http://cybercrime-tracker.net/index.php
+
+5. Ransonware Feed
+https://ransomwaretracker.abuse.ch/tracker/
