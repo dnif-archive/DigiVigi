@@ -37,5 +37,5 @@ https://ransomwaretracker.abuse.ch/tracker/
 6. All the URL hoax out there 
 https://urlhaus.abuse.ch/browse/
 
-7. A trojan tracker: A Trojan used to commit ebanking fraud
+7. A Trojan Tracker: A Trojan used to commit ebanking fraud
 https://feodotracker.abuse.ch
