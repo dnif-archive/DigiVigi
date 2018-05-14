@@ -18,7 +18,7 @@ ________________
 	- Docker
 
 ____________________ 
-#**Project Sketch** 
+# **Project Sketch** 
 
 The execution of project is carried out in two process-phase. 
 Its just a procedural way based on the diagram from issue #1
