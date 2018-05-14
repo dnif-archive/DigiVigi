@@ -81,5 +81,5 @@ ____________________
 
 ![process_2_dnif](https://user-images.githubusercontent.com/38049677/39574484-0d74b900-4ef5-11e8-8bdc-adf3f6f50b12.png)
 
-**Additional Credits to: [Detailed Overview](https://github.com/dnif/SOC18-genesis/issues/5)**
+**Additional Credits to: [SOC18-Genesis](https://github.com/dnif/SOC18-genesis/issues/5)**
 ![39711316-09db6e06-523d-11e8-8975-175ccc03622d](https://user-images.githubusercontent.com/38049677/40010897-c4011714-57c3-11e8-944f-b3523fd58865.png)
