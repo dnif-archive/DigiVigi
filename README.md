@@ -1,19 +1,16 @@
-_______________
 # DigiVigi
-_______________
+
 
 Project Description:
 	DigiVigi is a 'DNIF Open Source' project which simply tries exhibiting a "How To?" process of analyzing real-time data inside DNIF from start to finish.
 
 ___________________________ 
 **Tool** 
-___________________________
 
 DNIF - Open Big Data Analytics Platform (Free Forever Version)
 
 ________________ 
 **Other Support Tools/ Software**
-________________
 
 	- Virtual Box
 	- JetBrains: PyCharm Community Edition
@@ -22,7 +19,6 @@ ________________
 
 ____________________ 
 **Project Sketch** 
-____________________
 
 The execution of project is carried out in two process-phase. 
 Its just a procedural way based on the diagram from issue #1
@@ -49,7 +45,6 @@ Stage 4:
 _____
 
 **NOTE:Process 1 will ensure you get a good grasp of executing the project on a more fundametal level, before moving on to advanced level.**
-_____
 
 
 **PROCESS 2: Refer Issue #1**
@@ -75,8 +70,7 @@ Stage5:
 - Here's how to configure SMTP: https://dnif.it/docs/guides/tutorials/configuring-smtp-in-docker.html
 
 ____________________  
-**Diagrammatic Representation**
-____________________
+# **Diagrammatic Representation**
 
 
 **Process 1:**
@@ -89,8 +83,3 @@ ____________________
 
 **Additional Credits to: https://github.com/dnif/SOC18-genesis**
 ![39711316-09db6e06-523d-11e8-8975-175ccc03622d](https://user-images.githubusercontent.com/38049677/40010897-c4011714-57c3-11e8-944f-b3523fd58865.png)
-________________________________________________________________
-
-
-
-
