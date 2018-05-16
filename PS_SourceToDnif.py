@@ -53,7 +53,7 @@ def foo():
 foo()
 
 def WriteToFile():
-    header = "Log_Entry_Type, Log_Time, Attacker_IP, Entry_Emails, Log_Message, Deliverable, Days_Unresolved, Incident_Reported"
+    header = "Log_Entry_Type,Log_Time,Attacker_IP,Entry_Emails,Log_Message,Deliverable,Days_Unresolved,Incident_Reported"
     filepath = "/home/sawant/AbuseDataFeed.csv"
     file = open(filepath, "wb")
     file.write(bytes(header, encoding="ascii", errors='ignore')) #ensures data is written in bytes, and then encoded
