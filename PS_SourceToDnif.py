@@ -1,5 +1,6 @@
 # ------------------------------------- Initial Comments --------------------------------------------
 
+# THIS SCRIPT IS WRITTEN TO SUPPORT PROCESS 2 OF THIS PROJECT
 # urllib, urllib.request and Beautiful Soup are the three important libraries needed in this script
 # This Script only captures data from Webiron web page only. For different URL data,
 # one will have to change the URL passed in make_soup() and make slight changes to code
