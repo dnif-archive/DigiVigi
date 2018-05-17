@@ -1,3 +1,5 @@
+# THIS SCRIPT IS WRITTEN TO SUPPORT PROCESS 2 OF THIS PROJECT
+
 import requests
 import json
 
