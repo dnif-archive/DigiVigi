@@ -3,6 +3,10 @@
 # one will have to change the URL passed in make_soup() and make slight changes to code
 # This script captures data with respect to current date and appends it to an exiting csv
 # This code runs fine to its purpose.
+# BEFORE RUNNING THIS SCRIPT, CREATE A OPEN A EXCEL FILE, ADD THE NECESSARY FIELD NAMES WITH '$' AS FIRST CHARACTER
+# AFTER THAT PUT THIS CODE IN A SCHEDULER LIKE PROGRAM (AlwaysUp) AND THEN THE FILE WILL KEEP GETTING UPDATED AS PER YOUR
+# SCHEDULED TIME.
+# When need of the hour comes(i.e doing analysis in DNIF), just create an event store in DNIF, upload file, and start analyzing
 
 import urllib
 import urllib.request
