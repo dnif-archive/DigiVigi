@@ -16,6 +16,8 @@ ________________
 	- JetBrains: PyCharm Community Edition
 	- Ubuntu 16.04 or above
 	- Docker
+	- Postman
+	- AlwaysUp (Trial Version)
 
 ____________________ 
 # **Project Sketch** 
