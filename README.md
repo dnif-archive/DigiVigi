@@ -65,7 +65,7 @@ Stage 3:
 
 Stage 4:
 - The data captured needs to be fed to DNIF for it to be analyzed and played with.
-- Write a connector/ API which does this job for you or use the existing one from the repo.
+- Use DNIF API which does this job for you and use the existing unified code from the repo - under Process 2 folder; a file called "SourceToDnif.py".
 
 Stage5: 
 - Perform analytics, create dashboards, build alerts(for which one will have to configure SMTP in their container)
