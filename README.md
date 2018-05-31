@@ -85,3 +85,10 @@ ____________________
 
 **Additional Credits to: [SOC18-Genesis](https://github.com/dnif/SOC18-genesis/issues/5)**
 ![39711316-09db6e06-523d-11e8-8975-175ccc03622d](https://user-images.githubusercontent.com/38049677/40010897-c4011714-57c3-11e8-944f-b3523fd58865.png)
+
+____________________
+# **Hey! Do you want to stop coming to the repository & get all the project files on your system?**
+
+There's only one thing you'll need to do. Click on the "clone or download" button and get that ZIP file.
+
+THANKS FOR VISITING
