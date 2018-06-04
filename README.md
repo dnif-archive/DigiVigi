@@ -98,7 +98,7 @@ Abuse e-mail feed contains a log of our abuse reports and status of the issue re
 **Fields Descriptions:**
 
 |Field|Description|
-|:-----:|:-----------:|
+|:-----|:-----------|
 |	Log Entry Type|	Contains the action. This is either, report sent, report opened, report or if the host has replied with a resolved statement.|
 |	Log Time |	Time action was done.|
 |	Attacker IP |	The IP reported for issues (lookup link forwards to IP lookup page). The “IP” link filters the feed by the IP while the “lookup” provides more detailed information on the IP|
