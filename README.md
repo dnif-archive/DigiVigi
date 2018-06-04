@@ -98,15 +98,15 @@ Abuse e-mail feed contains a log of our abuse reports and status of the issue re
 **Fields Descriptions:**
 
 |Field|Description|
-|:------:|:------:|
-|Log Entry Type| Contains the action. This is either, report sent, report opened, report or if the host has replied with a resolved statement.|
-|Log Time | Time action was done.|
-|Attacker IP | The IP reported for issues (lookup link forwards to IP lookup page). The “IP” link filters the feed by the IP while the “lookup” provides more detailed information on the IP|
-|Logged E-Mails | These are either a list of e-mail addresses reported to for the attacker IP or the address that responded to a resolved or opened event. Clicking on an e-mail will filter the feed by that e-mail address.|
-|Log Message | The list of issues reported or an action message.
-|Deliverable | Was the e-mail accepted by the host?|
-|Days Unresolved	 | The number of days the issue since the issue was reported to the host.|
-|Incidents Reported | The number of incidents reported. Some bots use thousands of nodes rather than heavier concentrations from fewer hosts. The damages are the same however.|
+|:-----:|:-----------:|
+|	Log Entry Type|	Contains the action. This is either, report sent, report opened, report or if the host has replied with a resolved statement.|
+|	Log Time |	Time action was done.|
+|	Attacker IP |	The IP reported for issues (lookup link forwards to IP lookup page). The “IP” link filters the feed by the IP while the “lookup” provides more detailed information on the IP|
+|	Logged E-Mails |	These are either a list of e-mail addresses reported to for the attacker IP or the address that responded to a resolved or opened event. Clicking on an e-mail will filter the feed by that e-mail address.|
+|	Log Message |	The list of issues reported or an action message.
+|	Deliverable |	Was the e-mail accepted by the host?|
+|	Days Unresolved	 |	The number of days the issue since the issue was reported to the host.|
+|	Incidents Reported |	The number of incidents reported. Some bots use thousands of nodes rather than heavier concentrations from fewer hosts. The damages are the same however.|
 
 ____________________
 # **Hey! Do you want to stop coming to the repository & get all the project files on your system?**
