@@ -96,9 +96,10 @@ It provides a comprehensive managed security service that will keep your web ser
 Abuse e-mail feed contains a log of our abuse reports and status of the issue reported. This feed is filterable by e-mail address, IP address, or ASN number. This is the master feed for the Twitter “bad abuse” feed and is pulled from live data.
 
 **Fields Descriptions:**
-|Field |	Description|
-|------|--------------|
-|Log Entry Type | Contains the action. This is either, report sent, report opened, report or if the host has replied with a resolved statement.|
+
+|Field|Description|
+|:------:|:------:|
+|Log Entry Type| Contains the action. This is either, report sent, report opened, report or if the host has replied with a resolved statement.|
 |Log Time | Time action was done.|
 |Attacker IP | The IP reported for issues (lookup link forwards to IP lookup page). The “IP” link filters the feed by the IP while the “lookup” provides more detailed information on the IP|
 |Logged E-Mails | These are either a list of e-mail addresses reported to for the attacker IP or the address that responded to a resolved or opened event. Clicking on an e-mail will filter the feed by that e-mail address.|
