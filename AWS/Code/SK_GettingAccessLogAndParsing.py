@@ -209,10 +209,10 @@ postString5 = postString4.replace("\'","")
 
 print(postString5)
 
-#r2 = requests.post(urlForPostJsonData, postString5 = json.dumps(postString5), headers = headers)
+r2 = requests.post(urlForPostJsonData, postString5 = json.dumps(postString5), headers = headers)
 
-#response = r2.content
+response = r2.content
 
-#print(response)
+print(response)
 
 	
